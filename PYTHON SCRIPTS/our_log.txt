@@ -1,0 +1,198 @@
+d
+h
+d
+j
+f
+ 
+v
+ 
+
+
+s
+e
+n
+n
+a
+i
+t
+
+
+l
+u
+c
+l
+i
+n
+o
+
+
+j
+o
+b
+
+
+c
+y
+y
+b
+e
+ 
+ [Key.ctrl_l] 
+ [Key.alt_gr] 
+ [Key.alt_l] 
+ 
+ [Key.cmd] 
+ [Key.cmd] 
+ [Key.ctrl_l] 
+ [Key.cmd] 
+ [Key.shift] 
+<
+ [Key.backspace] 
+ [Key.ctrl_l] 
+ [Key.ctrl_l] 
+ [Key.ctrl_l] 
+ [Key.ctrl_l] 
+ [Key.ctrl_l] 
+ [Key.ctrl_l] 
+ [Key.ctrl_l] 
+ [Key.ctrl_l] 
+ [Key.ctrl_l] 
+
+ [Key.media_volume_mute] 
+ [Key.media_volume_down] 
+ [Key.media_volume_mute] 
+ [Key.media_volume_down] 
+ [Key.media_volume_down] 
+ [Key.media_volume_down] 
+ [Key.media_volume_up] 
+ [Key.media_volume_up] 
+ [Key.media_volume_up] 
+ [Key.media_volume_down] 
+ [Key.media_volume_down] 
+ [Key.media_volume_down] 
+ [Key.delete] 
+ [Key.delete] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+f
+n
+f
+h
+c
+m
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+-
+*
++
+-
+<103>
+<104>
+<100>
+<101>
+<100>
+<98>
+<99>
+<96>
+
+
+<102>
+<102>
+<105>
+ [Key.num_lock] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.backspace] 
+\
+	
+	
+ [Key.caps_lock] 
+ [Key.shift] 
+ [Key.caps_lock] 
+<
+ [Key.caps_lock] 
+	
+ [Key.caps_lock] 
+ [Key.caps_lock] 
+q
+	
+ [Key.shift] 
+q
+ [Key.caps_lock] 
+ [Key.caps_lock] 
+ [Key.caps_lock] 
+ [Key.shift] 
+ [Key.caps_lock] 
+a
+ [Key.caps_lock] 
+q
+	
+a
+q
+q
+	
+ [Key.esc] 
+l
+u
+c
+l
+n
+i
+o
+c
+r
+u
+z
+ 
+c
+r
+u
+z
+[TAB]	
+m
+o
+n
+[ENTER]
+
+t
+r
+y
+[ENTER]
+
+ [Key.shift_r] 
+ [Key.shift_r] 
+s
+e
+n
+n
+a
+i
+t
+ [Key.backspace] 
+ [Key.backspace] 
+ [Key.esc] 
+ [Key.esc] 
